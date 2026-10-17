@@ -1,0 +1,6 @@
+{
+  "name": "Lumora AI Camera",
+  "description": "Apple-inspired minimal camera with real-time film simulation, on-device AI scene director, and pro photo editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
